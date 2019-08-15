@@ -1,9 +1,15 @@
+@import '../font/font.css';
+
 .menu-wrapper {
-  position: fixed;
-  left: 0;
-  top: 0;
-  padding-left: 60px;
+  position: absolute;
+  right: 30px;
+  top: 30px;
 }
-.blog-title {
-  margin-top: 45px;
+
+.menu-item {
+  margin-bottom: 20px;
+  font-size: 1rem;
+  font-family: 'josefinSlabsemiBold';
+  text-align: right;
+  color: rgba(0, 0, 0, 0.6);
 }
