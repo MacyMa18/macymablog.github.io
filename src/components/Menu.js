@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'gatsby';
-import '../style/style.scss';
 import './menu.scss';
 
 function Menu() {

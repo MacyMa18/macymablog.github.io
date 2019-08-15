@@ -7,10 +7,14 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
 }
 .homepage-main-wrapper {
-  position: relative;
   width: 80%;
+}
+.homepage-main-section {
+  position: relative;
+  width: 100%;
   height: 700px;
   background-image: url(https://assets.sapi.work/apps/Macy-Blog/DSC00073-min.jpg);
   background-repeat: no-repeat;
@@ -31,6 +35,9 @@
 @include apply-to-small-screen {
   .homepage-main-wrapper {
     width: 90%;
+    height: 90%;
+  }
+  .homepage-main-section {
     height: 90%;
   }
   .blog-title {

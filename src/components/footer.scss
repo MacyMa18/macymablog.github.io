@@ -1,0 +1,16 @@
+@import '../style/style.scss';
+
+.footer-wrapper {
+  width: 100%;
+  margin-top: 24px;
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
+  padding-top: 16px;
+  font-size: 0.75rem;
+  color: rgba(0, 0, 0, 0.4);
+}
+
+@include apply-to-small-screen {
+  .footer-wrapper {
+    font-size: 1rem;
+  }
+}
