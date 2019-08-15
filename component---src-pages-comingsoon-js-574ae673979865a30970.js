@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{157:function(n,e,a){"use strict";a.r(e);var t=a(0),c=a.n(t);a(170);e.default=function(){return c.a.createElement("div",{className:"comingsoon-wrapper"},c.a.createElement("span",null,"敬请期待"))}}}]);
+//# sourceMappingURL=component---src-pages-comingsoon-js-574ae673979865a30970.js.map
