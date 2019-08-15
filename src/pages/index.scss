@@ -1,4 +1,6 @@
 @import '../font/font.css';
+@import '../style/style.scss';
+
 .homepage-wrapper {
   width: 100%;
   height: 100vh;
@@ -24,4 +26,14 @@
   font-family: 'pressStart2pregular';
   font-size: 2.5rem;
   color: rgba(255, 255, 255, 0.8);
+}
+
+@include apply-to-small-screen {
+  .homepage-main-wrapper {
+    width: 90%;
+    height: 90%;
+  }
+  .blog-title {
+    font-size: 3rem;
+  }
 }

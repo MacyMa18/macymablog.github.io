@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import SEO from '../components/Seo';
 import Menu from '../components/Menu';
 import Footer from '../components/Footer';
-import '../style/style.scss';
 import './index.scss';
 
 function IndexPage() {
