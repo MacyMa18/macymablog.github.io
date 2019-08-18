@@ -21,5 +21,8 @@
 @include apply-to-small-screen {
   .menu-item {
     font-size: 1.75rem;
+    a {
+      color: rgba(255, 255, 255, 0.8);
+    }
   }
 }
