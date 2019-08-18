@@ -9,7 +9,7 @@ function IndexPage() {
     <div className="homepage-wrapper">
       <div className="homepage-main-wrapper">
         <div className="homepage-main-section">
-          <SEO title="MacyMa Blog" />
+          <SEO title="MacyMa" />
           <div className="blog-title">Macy Ma</div>
           <Menu />
         </div>
