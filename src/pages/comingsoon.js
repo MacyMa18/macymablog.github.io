@@ -4,7 +4,7 @@ import './comingsoon.scss';
 function ComingSoon() {
   return (
     <div className="comingsoon-wrapper">
-      <span>敬请期待</span>
+      <span>Coming Soon ~</span>
     </div>
   );
 }
