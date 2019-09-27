@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{157:function(n,e,a){"use strict";a.r(e);var o=a(0),t=a.n(o);a(170);e.default=function(){return t.a.createElement("div",{className:"comingsoon-wrapper"},t.a.createElement("span",null,"Coming Soon ~"))}}}]);
+//# sourceMappingURL=component---src-pages-comingsoon-js-7040567a67a3a43c44fb.js.map
